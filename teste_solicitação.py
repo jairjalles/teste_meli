@@ -5,7 +5,7 @@ import re
 import random
 
 # Configuração da Página
-st.set_page_config(page_title="Calculadora ML - Pro", page_icon="📦", layout="wide")
+st.set_page_config(page_title="Calculadora ML - Pro", page_icon="⚡", layout="wide")
 
 # --- 1. AUTENTICAÇÃO OAUTH (TOKEN) ---
 @st.cache_data(ttl=18000)
